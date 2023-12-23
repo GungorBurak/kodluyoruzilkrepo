@@ -2,19 +2,14 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![Proje Resmi](img/egitim.png)
-
+![github](egitim.png)
 
 ## Installation
 
-<<<<<<< HEAD
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
-=======
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek.)
->>>>>>> f1875766980530199ad1fdbe318b6f31446d1f9e
 
 ```bash
-git clone https://github.com/GungorBurak/kodluyoruzilkrepo.git
+git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
 ```
 
 ## Usage
@@ -33,3 +28,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
